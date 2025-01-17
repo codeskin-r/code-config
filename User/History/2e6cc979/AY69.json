@@ -1,0 +1,96 @@
+{
+    "workbench.colorTheme": "Meowrch Theme",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontSize": 20,
+    "terminal.integrated.fontFamily": "Maple Mono",
+    "terminal.integrated.fontSize": 19,
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.enabled": false,
+    "editor.minimap.side": "left",
+    "editor.fontFamily": "FantasqueSansM Nerd Font",
+    "editor.fontLigatures": true,
+    "extensions.autoUpdate": false,
+    "workbench.statusBar.visible": false,
+    "terminal.external.linuxExec": "kitty",
+    "terminal.explorerKind": "both",
+    "terminal.sourceControlRepositoriesKind": "both",
+    "telemetry.telemetryLevel": "off",
+
+    "workbench.tree.indent": 22,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.renderControlCharacters": true,
+    "editor.renderLineHighlight": "all",
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "editor.renderFinalNewline": "on",
+    "editor.renderWhitespace": "all",
+
+
+    "editor.minimap.enabled": false,
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.showTabs": "multiple",
+
+
+    // UI
+  "editor.stickyScroll.enabled": true,
+  "window.commandCenter": false,
+  "editor.lineNumbers": "relative",
+  "editor.lineHeight": 25,
+  "editor.overviewRulerBorder": false,
+  "workbench.editor.enablePreviewFromCodeNavigation": true,
+  "workbench.view.alwaysShowHeaderActions": true,
+  "workbench.startupEditor": "none",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.hideCursorInOverviewRuler": true,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editor.tabActionCloseVisibility": false,
+  "files.trimTrailingWhitespace": true,
+  "editor.foldingImportsByDefault": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.highlightActiveIndentation": true,
+  "editor.guides.bracketPairsHorizontal": "active",
+  "search.followSymlinks": false,
+  "explorer.compactFolders": false,
+  "breadcrumbs.filePath": "off",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.scrollbar.vertical": "visible",
+  "editor.wordWrap": "off",
+  "terminal.integrated.tabs.enabled": true,
+
+  // Smooth movement
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.cursorBlinking": "phase",
+  "editor.smoothScrolling": true,
+
+  "editor.mouseWheelScrollSensitivity": 0.8,
+  "editor.mouseWheelZoom": true,
+  "workbench.list.mouseWheelScrollSensitivity": 0.7,
+
+  // Animations
+  "animations.Enabled": true,
+  "animations.CursorAnimation": true,
+  "animations.CursorAnimationOptions": {
+    "Color": "#FFA500",
+    "CursorStyle": "block",
+    "TrailLength": 12,
+  },
+  "animations.Active": "Indent",
+  "animations.Scrolling": "Slide",
+  "animations.Durations": {
+    "Command-Palette": 600,
+    "Scrolling": 400,
+    "Active": 100,
+    "Smooth-Mode": 500,
+    "Tabs": 400
+  },
+  "animations.Smooth-Mode": true,
+  "vscode_custom_css.imports": [
+    "file:///home/codeskin/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js",
+    "file:///home/codeskin/.vscode/custom-sidebar-font.css"
+],
+}
+
